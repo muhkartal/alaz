@@ -92,4 +92,4 @@ We welcome contributions to improve the project. Feel free to fork the repositor
 
 ## Contact
 
-If you encounter any issues, feel free to open an issue or reach out to me [via email](kartal.dev).
+If you encounter any issues, feel free to open an issue or reach out to me [via email](muhammed_ikarta@outlook.com).
