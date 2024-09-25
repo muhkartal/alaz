@@ -74,7 +74,7 @@ The application captures real-time video feed from your webcam, processes the fr
 - Hybrid Mode: Combines automatic detection with manual adjustment for user-defined precision.
 - Manual Mode: Gives full control to the user to define target objects through HSV range and color priority settings.
 
-<img src="images/mode.png" alt="alt text" width="600" /
+<img src="images/mode.png" alt="alt text" width="600" />
 
 ## Future Improvements
 
