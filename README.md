@@ -60,6 +60,7 @@ Welcome to the OpenCV Video Contour Detection project! This project showcases re
 ## How It Works
 
 The application captures real-time video feed from your webcam, processes the frames in different modes, and applies contour detection on objects that match the selected color. The user can adjust the color range dynamically via sliders, and select the operating mode and target color priority.
+<img src="images/image.png" alt="alt text" width="600" />
 
 1.  Video Capture: Video is captured using OpenCV’s VideoCapture method.
 2.  Color Range Adjustment: Trackbars allow dynamic tuning of the HSV color space for precision detection.
@@ -73,4 +74,22 @@ The application captures real-time video feed from your webcam, processes the fr
 - Hybrid Mode: Combines automatic detection with manual adjustment for user-defined precision.
 - Manual Mode: Gives full control to the user to define target objects through HSV range and color priority settings.
 
-![alt text](images/image.png)
+<img src="images/mode.png" alt="alt text" width="600" /
+
+## Future Improvements
+
+- Custom Target Shapes: In addition to color-based detection, allow for detecting specific shapes like circles, squares, etc.
+- Multiple Camera Support: Add functionality to switch between different camera sources.
+- Advanced Performance Tuning: Optimize the application for high FPS and low latency on different hardware configurations.
+
+## Contributing
+
+We welcome contributions to improve the project. Feel free to fork the repository, make changes, and submit a pull request. Ensure your code follows the existing style and includes proper documentation.
+
+## License
+
+> This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+If you encounter any issues, feel free to open an issue or reach out to me [via email](kartal.dev).
