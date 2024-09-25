@@ -74,7 +74,10 @@ The application captures real-time video feed from your webcam, processes the fr
 - Hybrid Mode: Combines automatic detection with manual adjustment for user-defined precision.
 - Manual Mode: Gives full control to the user to define target objects through HSV range and color priority settings.
 
-<img src="images/mode.png" alt="alt text" width="400" height="400"  style="margin-left: 100px;"/>
+<div style="margin-left: 70px;">
+<img src="images/mode.png" alt="alt text" width="400" height="400" />
+
+</div>
 
 ## Future Improvements
 
@@ -92,4 +95,4 @@ We welcome contributions to improve the project. Feel free to fork the repositor
 
 ## Contact
 
-If you encounter any issues, feel free to open an issue or reach out to me [via email](muhammed_ikarta@outlook.com).
+If you encounter any issues, feel free to open an issue or reach out to me [via email](https://www.kartal.dev).
