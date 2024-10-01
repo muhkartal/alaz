@@ -1,12 +1,12 @@
 ### OpenCV Video Contour Detection Application
 
-## About The Project
+## 🎨 About The Project
 
 Welcome to the OpenCV Video Contour Detection project! This project showcases real-time video processing using OpenCV integrated with a responsive and modern GUI built with Tkinter. The application provides three operational modes (Auto, Hybrid, and Manual) and allows users to select target priority from various color options. It also incorporates features like FPS display, dynamic color range adjustment, and contour detection.
 
 ![alt text](images/mockup.png)
 
-## Features
+## 🖥️ Features
 
 1. Real-Time Contour Detection
    Detect and highlight objects (contours) in real-time based on user-selected color ranges.
@@ -29,7 +29,7 @@ Welcome to the OpenCV Video Contour Detection project! This project showcases re
 6. Performance Metrics
    The application calculates and displays the Frames Per Second (FPS) in real-time, ensuring optimal performance visibility.
 
-## Installation
+## 📥 Installation
 
 - Python 3.x: Ensure that Python 3.x is installed on your machine.
 - OpenCV: Install OpenCV for video processing capabilities.
@@ -57,7 +57,7 @@ Welcome to the OpenCV Video Contour Detection project! This project showcases re
    python main.py
    ```
 
-## How It Works
+## ⚙️ How It Works
 
 The application captures real-time video feed from your webcam, processes the frames in different modes, and applies contour detection on objects that match the selected color. The user can adjust the color range dynamically via sliders, and select the operating mode and target color priority.
 <img src="images/image.png" alt="alt text" width="600" />
@@ -68,7 +68,7 @@ The application captures real-time video feed from your webcam, processes the fr
 4.  Contour Detection: The system detects and highlights contours based on the color priority.
 5.  Performance Display: The application calculates FPS to monitor real-time performance.
 
-## Modes of Operation
+## ✨ Modes of Operation
 
 - Auto Mode: Automatically detects objects based on predefined color ranges.
 - Hybrid Mode: Combines automatic detection with manual adjustment for user-defined precision.
@@ -79,20 +79,20 @@ The application captures real-time video feed from your webcam, processes the fr
 
 </div>
 
-## Future Improvements
+## 🚀  Future Improvements
 
 - Custom Target Shapes: In addition to color-based detection, allow for detecting specific shapes like circles, squares, etc.
 - Multiple Camera Support: Add functionality to switch between different camera sources.
 - Advanced Performance Tuning: Optimize the application for high FPS and low latency on different hardware configurations.
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to improve the project. Feel free to fork the repository, make changes, and submit a pull request. Ensure your code follows the existing style and includes proper documentation.
 
-## License
+## 📜 License
 
 > This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Contact
+## 📧 Contact
 
 If you encounter any issues, feel free to open an issue or reach out to me [via email](https://www.kartal.dev).
